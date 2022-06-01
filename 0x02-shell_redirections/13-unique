@@ -1,0 +1,2 @@
+#!/bin/ba
+cat list |sort |uniq -u
