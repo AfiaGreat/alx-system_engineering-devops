@@ -1,1 +1,1 @@
-Getting to learn the shell basics
+Looking at shell redirections
